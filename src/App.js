@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         <div>adi</div>
+         <div>aditya</div>
         </a>
       </header>
     </div>
